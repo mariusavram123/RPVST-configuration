@@ -1,0 +1,9 @@
+SW1:
+
+spanning-tree vlan 100,300 root primary
+spanning-tree vlan 200 root secondary
+
+
+SW3:
+spanning-tree vlan 200 root primary
+spanning-tree vlan 100,300 root secondary

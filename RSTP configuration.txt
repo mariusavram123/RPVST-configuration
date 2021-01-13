@@ -1,0 +1,3 @@
+This configuration will be applied on all the switches:
+
+spanning-tree mode rapid-pvst
